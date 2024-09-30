@@ -2,10 +2,10 @@
 
 This repository contains the work done as part of the Codewars competition organized by the Web and Coding Club, IIT Bombay, in March 2023. The competition focused on developing strategies for an autonomous, real-time game involving resource management and island capture. My team consisted of Arijit, Deepan and Affaan.
 
-Game Description
+##Game Description
 The game takes place in a 2D arena with a frame size of X×Y, where the objective is to capture one of the three islands located on the map. To win, a team must hold control of an island for 100 consecutive seconds while defending against rival teams and managing limited resources.
 
-Objective:
+##Objective:
 Each team starts from opposite ends of the map and must capture an island by occupying it for 100 consecutive seconds.
 The map contains 3 islands, each with a size of 3×3 tiles.
 Pirates can be spawned to help defend the islands or attack opponents.
