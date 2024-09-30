@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\ramac\OneDrive\Desktop\Code_Wars\engine\main.py", line 323, in run_game
+    n = self.__bscript.ActPirate(pirate_i)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ramac\OneDrive\Desktop\Code_Wars\scriptdestroyFinal.py", line 672, in ActPirate
+    return circleAround(dimX//2, dimY//2, (pirate.getID()%(dimX//2)) + 1, pirate)
+                                           ~~~~~~~~~~~~~~^^~~~~~~~~
+TypeError: not all arguments converted during string formatting
